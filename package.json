@@ -1,0 +1,20 @@
+{
+  "name": "ebookconvertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.2",
+    "body-parser": "^1.19.0",
+    "calibre": "^3.2.1",
+    "ebook-convert": "^2.0.1",
+    "express": "^4.17.1",
+    "gtts": "^0.2.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
